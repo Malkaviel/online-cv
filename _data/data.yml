@@ -3,197 +3,178 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Maxime Capuano
+    tagline: Student in software development
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: maxime.capuano@protonmail.com
+    phone: 07 78 39 57 69
+    website: malkaviel.github.io #do not add http://
+    linkedin: maxime-capuano
+    github: Malkaviel
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: malkaviel
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Native
         
-    interests:
-      - item: Climbing
-        link:
+#    interests:
+#      - item: Climbing
+#        link:
 
-      - item: Snowboarding
-        link:
+#      - item: Snowboarding
+#        link:
 
-      - item: Cooking
-        link:
+#      - item: Cooking
+#        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am a french student programmer.
 
-      Second paragraph if required.
+      I studied at the Puy-En-Velay's University, an institute specialized in graphics programming. I learnt about OpenGL, the Unity game engine, the maths behind 3D software, C++ and C#.
+
+      During internships, I worked as a web developer on various e-commerce websites and web applications. I learnt about web framework architecture and web frameworks like Symfony and Thelia.
+
+      I am currently studying:
+      - The development of real-time 3D applications at the Puy-en-Velay's IUT.
+      - The development of web applications (back-end), thanks to an apprenticeship contract at OpenStudio.
+      - The design and implementation of programming languages and game engines, on my spare time.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: professional bachelor degree
+      university: Puy-en-Velay's IUT
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        My studies allowed me to learn about 3D programming in greater depth, by using the Unity game engine and
+        the Microsoft Hololens to solve visualization problems in medical imaging.
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: DUT
+      university: Puy-en-Velay's IUT, and University of Quebec At Chicoutimi
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        My studies were focused on the mathematics and algorithms used in digital imaging and 3D programming, and their usage in graphics and game engines.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Back-end Web Developer (Apprenticeship)
+      time: August 2018 - September 2019
+      company: OpenStudio
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I am working as a back-end Web Developer at OpenStudio, a web agency in Puy-en-Velay, France.
+        
+        My job is to implement new functionalities, correct bugs and refactor the codebase of the tools used by the websites
+        built by OpenStudio.
 
-          - Bullet point
-          - Bullet point 
+        I am also responsible for the improvement of the working process, by automating the tests and deployments
+        of websites, and introducing new development and debugging tools in our workflow.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Back-end Web Developer (Internship)
+      time: April 2017 - August 2017
+      company: FB Digital
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I worked as a back-end web developer at FB Digital, a web agency in Brioude, France.
 
-          - Bullet point
-          - Bullet point
+        My job, at first, was to assist the lead developer with small tasks, in order to gain experience
+        with the tools used by the company (PHP, Symfony web framework, Thelia e-commerce framework).
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Later, during the last months of internship and after getting acquainted with the tools and the development processes,
+        i was able to be the main developer of an e-commerce website, implementing most back-end functionalities.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is a list of projects I made during my studies and my spare time.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Medical imaging project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A Microsoft Hololens project made with the Unity Game Engine to display and manipulate volume-rendered DICOM files on a patient."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Maskerad game engine
+        link: "https://malkaviel.github.io/maskerad-game-engine/"
+        tagline: "An open-source game engine written in Rust."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Betrayed
+        link: "https://malkaviel.github.io/portfolio/"
+        tagline: "Lead programmer on a top-down shooter made with Unity. It was a first year student game project with a group of 15 students."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: The Forgotten Ark - Unreal Engine 4 game prototype
+        link: "https://malkaviel.github.io/portfolio/"
+        tagline: "A first person shooter arena in a sci-fi universe, where the player can select its archetype to fit its play-style."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      - title: Puy-en-Velay's IUT website
+        link: "https://ig.iut-clermont.fr/"
+        tagline: "We reworked the IUT website. I worked on it as a front-end developer. Is was a first year student mentored project. We mainly used Bootstrap and JQuery on this project."
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+      - level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C
+      - level: 65%
 
-      - name: Angular
-        level: 98%
+      - name: C#
+      - level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Java
+      - level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PHP
+      - level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Lua
+      - level: 85%
+
+      - name: Racket
+      - level: 80%
+
+      - name: Ocaml
+      - level: 90%
+
+      - name: F#
+      - level: 90%
+
+      - name: Haskell
+      - level: 70%
+
+      - name: Kotlin
+      - level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
