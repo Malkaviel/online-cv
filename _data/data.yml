@@ -12,9 +12,9 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: maxime.capuano@protonmail.com
+    email: maxime.capuano@tutanota.com
     phone: 07 78 39 57 69
-    website: malkaviel.github.io #do not add http://
+    website: malkaviel.github.io/particle/ #do not add http://
     linkedin: maxime-capuano
     github: Malkaviel
     gitlab:
@@ -30,29 +30,26 @@ sidebar:
       - idiom: French
         level: Native
         
-#    interests:
-#      - item: Climbing
-#        link:
+    interests:
+      - item: Programming language theory
+        link:
 
-#      - item: Snowboarding
-#        link:
+      - item: Game engines
+        link:
 
-#      - item: Cooking
-#        link:
+      - item: Graphics programming
+        link: 
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a french student programmer.
+       I am a french computer science student.
 
-      I studied at the Puy-En-Velay's University, an institute specialized in graphics programming. I learnt about OpenGL, the Unity game engine, the maths behind 3D software, C++ and C#.
+       My studies are focused on 3D programming and simulations, from the low-level libraries like OpenGL or Vulkan, to the high-level game engines like Unity or Unreal Engine.
 
-      During internships, I worked as a web developer on various e-commerce websites and web applications. I learnt about web framework architecture and web frameworks like Symfony and Thelia.
+       Through various internships and apprenticeships, I learnt about back-end web development, from the traditional e-commerce website with PHP, to the highly distributed, concurrent and parallel web application with Erlang and Elixir.
 
-      I am currently studying:
-      - The development of real-time 3D applications at the Puy-en-Velay's IUT.
-      - The development of web applications (back-end), thanks to an apprenticeship contract at OpenStudio.
-      - The design and implementation of programming languages and game engines, on my spare time.
+       While I am a polyvalent programmer, Game engines and programming language theory are of particular interest for me, and my personal projects are centered around those domains.
 
 education:
     - degree: professional bachelor degree
@@ -144,7 +141,7 @@ skills:
 
     toolset:
       - name: C++
-      - level: 70%
+      - level: 85%
 
       - name: C
       - level: 65%
@@ -162,19 +159,25 @@ skills:
       - level: 85%
 
       - name: Racket
-      - level: 80%
+      - level: 60%
 
       - name: Ocaml
-      - level: 90%
+      - level: 80%
 
       - name: F#
-      - level: 90%
+      - level: 80%
 
       - name: Haskell
       - level: 70%
 
       - name: Kotlin
       - level: 80%
+
+      - name: Erlang
+      - level: 50%
+
+      - name: Elixir
+      - level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
