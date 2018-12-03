@@ -97,19 +97,19 @@ projects:
 
     assignments:
       - title: Medical imaging project
-        link: "#"
+        link: "https://malkaviel.github.io/particle/#projects"
         tagline: "A Microsoft Hololens project made with the Unity Game Engine to display and manipulate volume-rendered DICOM files on a patient."
 
       - title: Maskerad game engine
-        link: "https://malkaviel.github.io/maskerad-game-engine/"
+        link: "https://malkaviel.github.io/particle/#projects"
         tagline: "An open-source game engine written in Rust."
 
       - title: Betrayed
-        link: "https://malkaviel.github.io/portfolio/"
+        link: "https://malkaviel.github.io/particle/#projects"
         tagline: "Lead programmer on a top-down shooter made with Unity. It was a first year student game project with a group of 15 students."
 
       - title: The Forgotten Ark - Unreal Engine 4 game prototype
-        link: "https://malkaviel.github.io/portfolio/"
+        link: "https://malkaviel.github.io/particle/#projects"
         tagline: "A first person shooter arena in a sci-fi universe, where the player can select its archetype to fit its play-style."
 
       - title: Puy-en-Velay's IUT website
