@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Capuano
-    tagline: Student in software development
+    tagline: Student in 3D software development
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,14 +53,14 @@ career-profile:
 
 education:
     - degree: professional bachelor degree
-      university: Puy-en-Velay's IUT
+      university: Technological Academic Institute (IUT) of Le Puy-en-Velay
       time: 2018 - 2019
       details: |
         My studies allowed me to learn about 3D programming in greater depth, by using the Unity game engine and
         the Microsoft Hololens to solve visualization problems in medical imaging.
 
     - degree: DUT
-      university: Puy-en-Velay's IUT, and University of Quebec At Chicoutimi
+      university: Technological Academic Institute (IUT) of Le Puy-en-Velay, and University of Quebec At Chicoutimi (UQAC)
       time: 2015 - 2017
       details: |
         My studies were focused on the mathematics and algorithms used in digital imaging and 3D programming, and their usage in graphics and game engines.
@@ -149,9 +149,6 @@ skills:
       - name: C#
       - level: 75%
 
-      - name: Java
-      - level: 75%
-
       - name: PHP
       - level: 85%
 
@@ -172,12 +169,6 @@ skills:
 
       - name: Kotlin
       - level: 80%
-
-      - name: Erlang
-      - level: 50%
-
-      - name: Elixir
-      - level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
