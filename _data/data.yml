@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Capuano
-    tagline: Student in 3D software development
+    tagline: Student in web and 3D software development
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,7 +38,10 @@ sidebar:
         link:
 
       - item: Graphics programming
-        link: 
+        link:
+
+      - item: Back-end web development
+        link:
 
 career-profile:
     title: Career Profile
@@ -96,6 +99,10 @@ projects:
       Here is a list of projects I made during my studies and my spare time.
 
     assignments:
+      - title: Ship Saver - Godot mobile game prototype
+        link: "https://malkaviel.github.io/particle/#projects"
+        tagline: "A mobile game project with the Godot game engine, in order to learn and explore a new game engine which, compared to Unity and Unreal Engine, has an entirely different workflow."
+
       - title: Medical imaging project
         link: "https://malkaviel.github.io/particle/#projects"
         tagline: "A Microsoft Hololens project made with the Unity Game Engine to display and manipulate volume-rendered DICOM files on a patient."
@@ -152,11 +159,11 @@ skills:
       - name: PHP
       - level: 85%
 
-      - name: Lua
-      - level: 85%
+      - name: Python
+      - level: 60%
 
       - name: Racket
-      - level: 60%
+      - level: 65%
 
       - name: Ocaml
       - level: 80%
