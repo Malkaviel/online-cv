@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Capuano
-    tagline: Student in web and 3D software development
+    tagline: web and 3D software programmer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,13 +46,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       I am a french computer science student.
+      I am a french Web and 3D software programmer.
 
-       My studies are focused on 3D programming and simulations, from the low-level libraries like OpenGL or Vulkan, to the high-level game engines like Unity or Unreal Engine.
+      My studies and personal projects are centered around the development of game engines, 3D graphics software and programming language theory.
 
-       Through various internships and apprenticeships, I learnt about back-end web development, from the traditional e-commerce website with PHP, to the highly distributed, concurrent and parallel web application with Erlang and Elixir.
+      My professional experience is about the development of website backends and internal web tools.
 
-       While I am a polyvalent programmer, Game engines and programming language theory are of particular interest for me, and my personal projects are centered around those domains.
 
 education:
     - degree: professional bachelor degree
@@ -75,7 +74,7 @@ experiences:
       details: |
         I am working as a back-end Web Developer at OpenStudio, a web agency in Puy-en-Velay, France.
         
-        My job is to implement new functionalities, correct bugs and refactor the codebase of the tools used by the websites
+        My job is to implement new functionalities, internal tools, correct bugs and refactor the codebase of the tools used by the websites
         built by OpenStudio.
 
         I am also responsible for the improvement of the working process, by automating the tests and deployments
@@ -99,6 +98,10 @@ projects:
       Here is a list of projects I made during my studies and my spare time.
 
     assignments:
+      - title: Ocaml raytracer
+        link: "https://malkaviel.github.io/particle/#projects"
+        tagline: "A raytracer written in Ocaml."
+
       - title: Ship Saver - Godot mobile game prototype
         link: "https://malkaviel.github.io/particle/#projects"
         tagline: "A mobile game project with the Godot game engine, in order to learn and explore a new game engine which, compared to Unity and Unreal Engine, has an entirely different workflow."
@@ -148,10 +151,10 @@ skills:
 
     toolset:
       - name: C++
-      - level: 85%
+      - level: 65%
 
       - name: C
-      - level: 65%
+      - level: 70%
 
       - name: C#
       - level: 75%
@@ -160,22 +163,22 @@ skills:
       - level: 85%
 
       - name: Python
-      - level: 60%
+      - level: 50%
 
       - name: Racket
-      - level: 65%
+      - level: 55%
 
       - name: Ocaml
-      - level: 80%
+      - level: 85%
 
       - name: F#
-      - level: 80%
-
-      - name: Haskell
       - level: 70%
 
+      - name: Haskell
+      - level: 50%
+
       - name: Kotlin
-      - level: 80%
+      - level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
