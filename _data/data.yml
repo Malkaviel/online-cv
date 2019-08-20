@@ -45,10 +45,8 @@ career-profile:
     summary: |
       I am a french web developer.
 
-      Most of my experience lies in the development of web back-ends, be it in PHP, C# or Elixir.
-
-      Recently, i got acquainted to front-end web development with the React framework, and I am currently learning
-      the Vue framework.
+      Most of my experience lies in the back-end side of web development, be it in PHP, C# or Elixir, with some experience with the VueJS
+      framework for the front-end side.
 
       I also study game engines and interesting computer science subjects, mostly related to programming languages, on my spare time.
 
@@ -98,9 +96,6 @@ projects:
       Here is a list of projects I made during my studies and my spare time.
 
     assignments:
-      - title: Ocaml raytracer
-        link: "https://malkaviel.github.io/particle/#projects"
-        tagline: "A raytracer written in Ocaml."
 
       - title: Ship Saver - Godot mobile game prototype
         link: "https://malkaviel.github.io/particle/#projects"
@@ -112,7 +107,7 @@ projects:
 
       - title: Maskerad game engine
         link: "https://malkaviel.github.io/particle/#projects"
-        tagline: "An open-source game engine written in Rust."
+        tagline: "An open-source game engine written in Rust (Work In Progress)."
 
       - title: Betrayed
         link: "https://malkaviel.github.io/particle/#projects"
@@ -122,7 +117,7 @@ projects:
         link: "https://malkaviel.github.io/particle/#projects"
         tagline: "A first person shooter arena in a sci-fi universe, where the player can select its archetype to fit its play-style."
 
-      - title: Puy-en-Velay's IUT website
+      - title: Puy-en-Velay's IUT website (2016)
         link: "https://ig.iut-clermont.fr/"
         tagline: "We reworked the IUT website. I worked on it as a front-end developer. Is was a first year student mentored project. We mainly used Bootstrap and JQuery on this project."
 
@@ -150,32 +145,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C++
-      - level: 65%
-
-      - name: C
-      - level: 70%
-
       - name: C#
-      - level: 75%
+      - level: 85%
 
       - name: PHP
       - level: 85%
 
-      - name: Python
-      - level: 50%
-
-      - name: Racket
-      - level: 55%
-
       - name: Ocaml
-      - level: 85%
+      - level: 80%
 
-      - name: F#
+      - name: Elixir
+      - level: 80%
+
+      - name: Python
       - level: 70%
 
+      - name: C++
+      - level: 65%
+
+      - name: C
+      - level: 60%
+
       - name: Haskell
-      - level: 50%
+      - level: 60%
 
       - name: Kotlin
       - level: 60%
