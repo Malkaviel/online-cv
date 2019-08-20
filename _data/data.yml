@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maxime Capuano
-    tagline: web and graphics software programmer
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,9 +37,6 @@ sidebar:
       - item: Game engines
         link:
 
-      - item: Graphics programming
-        link:
-
       - item: Fullstack web development
         link:
 
@@ -48,9 +45,12 @@ career-profile:
     summary: |
       I am a french web developer.
 
-      My studies and personal projects are centered around the development of game engines, 3D graphics software and programming language theory.
+      Most of my experience lies in the development of web back-ends, be it in PHP, C# or Elixir.
 
-      My professional experience is about the development of website backends and internal web tools.
+      Recently, i got acquainted to front-end web development with the React framework, and I am currently learning
+      the Vue framework.
+
+      I also study game engines and interesting computer science subjects, mostly related to programming languages, on my spare time.
 
 
 education:
