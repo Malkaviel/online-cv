@@ -45,7 +45,7 @@ career-profile:
     summary: |
       I am a french web developer.
 
-      Most of my experience lies in the back-end side of web development, be it in PHP, C# or Elixir, with some experience with the ReactJS
+      Most of my experience lies in the back-end side of web development, be it in PHP, C# or Java, with some experience with the ReactJS
       library for the front-end side.
 
       I also study game engines and interesting computer science subjects, mostly related to programming languages, on my spare time.
@@ -148,13 +148,13 @@ skills:
       - name: C#
       - level: 85%
 
-      - name: PHP
+      - name: Java
       - level: 85%
 
-      - name: Ocaml
+      - name: PHP
       - level: 80%
 
-      - name: Elixir
+      - name: Ocaml
       - level: 80%
 
       - name: Python
@@ -167,10 +167,7 @@ skills:
       - level: 60%
 
       - name: Haskell
-      - level: 60%
-
-      - name: Kotlin
-      - level: 60%
+      - level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
