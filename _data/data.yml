@@ -43,13 +43,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a french web developer.
+      I am a french fullstack web developer.
 
-      Most of my experience lies in the back-end side of web development, be it in PHP, C# or Java, with some experience with the ReactJS
+      Most of my experience lies in the back-end side of web development, be it in PHP, C# or Java, with some experience with the Angular
       library for the front-end side.
-
-      I also study game engines and interesting computer science subjects, mostly related to programming languages, on my spare time.
-
 
 education:
     - degree: professional bachelor degree
